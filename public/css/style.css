@@ -1,0 +1,41 @@
+*{
+    font-family: 'Noto Sans Display', sans-serif;
+    
+    
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: box;
+}
+
+
+.navbar{
+    color:  rgb(0, 153, 115) !important;
+}
+
+.bg-evote{
+    background:  rgb(0, 153, 115);
+}
+
+.text-evote{
+    color:  rgb(0, 153, 115);
+}
+
+.navbar-brand{
+    color:  rgb(0, 153, 115) !important;
+}
+
+.nav-link{
+    color:  rgb(0, 153, 115) !important;
+}
+
+.dashbord{
+    color: rgb(0, 153, 115) !important;
+}
+
+
+.sidebar a {
+    color: white;
+}
